@@ -1,0 +1,7 @@
+/*nivel 12*/
+
+#pond {
+  display: flex;
+justify-content: space-between;
+flex-direction: column-reverse;
+}
